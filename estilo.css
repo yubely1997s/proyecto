@@ -1,0 +1,25 @@
+body {
+    font-family: 'Lora';
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../proyecto/imagenes/bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+  h1{
+  color: white;
+  text-align: center;
+  
+}
+.intro{
+    color: white;
+    text-align: center;
+    font-size: 20;
+}
+.colores{
+    background-color: thistle;
+    font-size: 20;
+}
+
+
+
